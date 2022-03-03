@@ -12,3 +12,8 @@ Soon I will create the frontend and this happen I will put my project here too
 I have one advice to people, who don't fell confidente to create your first project 
 
 "Do, try, search, read, do everything you can. If I can do it, you can too!!!"
+
+To see how this project works it's simple:
+
+- Open your terminal
+- Run git clone 
