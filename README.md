@@ -16,4 +16,8 @@ I have one advice to people, who don't fell confidente to create your first proj
 To see how this project works it's simple:
 
 - Open your terminal
-- Run git clone 
+- Run git clone https://github.com/Sarah-Ribeiro/Crud-ExpressJS-Backend.git
+- mkdir Crud-ExpressJS-Backend
+- npm i 
+- yarn start
+- Open localhost:3001 and try by yourself!!!
